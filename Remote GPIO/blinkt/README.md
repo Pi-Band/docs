@@ -149,4 +149,4 @@ To run [the examples provided in Pimoroni's Blinkt repository](https://github.co
    from remote_blinkt import blinkt
    ```
 
-1. Run the example(s) following the guide in [Run examples](#run-examples) section above.
+1. Run the example(s) following the guide in [Running examples](#running-examples) section above.
