@@ -90,7 +90,7 @@ A few examples are included in the **blinkt** folder. Note that some examples ma
 
 1. Run an example.
 
-   In order for the examples to connect to your Raspberry Pi with Pimoroni Blinkt! attached, you will need to specify the hostname or IP address of the Pi by way of setting a envrionment variable called **PIGPIO_ADDR** like this:
+   In order for the examples to connect to your Raspberry Pi with Pimoroni Blinkt! attached, you will need to specify the hostname or IP address of the Pi by setting an envrionment variable called **PIGPIO_ADDR** like this:
 
    ```
    PIGPIO_ADDR=YOUR_BLINKT_PI_ADDRESS python EXAMPLE.py
